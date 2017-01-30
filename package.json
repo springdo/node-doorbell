@@ -14,5 +14,8 @@
     "node-red"
   ],
   "author": "donal",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-dash-button": "^0.6.1"
+  }
 }
