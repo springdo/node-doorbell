@@ -16,6 +16,7 @@
   "author": "donal",
   "license": "ISC",
   "dependencies": {
-    "node-dash-button": "^0.6.1"
+    "node-dash-button": "^0.6.1",
+    "request": "^2.79.0"
   }
 }
