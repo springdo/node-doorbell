@@ -33,9 +33,9 @@ A VERY simple node app and NodeRED flow for hacking an Amazon Dash button into a
 ## Deploy
 ----------
 1. to run the app
-```
-npm start
-```
+ ```
+ npm start
+ ```
 2. Docker can be used to Build and Deploy the app.
  ```
  docker build -t springdo/doorbell .
